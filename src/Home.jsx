@@ -22,7 +22,8 @@ const Home = () => {
           <Card/>
           <Card/>
           <Card/>
-          <h1>hello world!!!</h1>
+          <Card/>
+        
         </div>
         
     </div>
