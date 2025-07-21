@@ -23,7 +23,7 @@ const Home = () => {
         {
           blogs.map(function(blog){
             return(
-              <Card/>
+              <Card blog={blog}/>
             )
           })
         }
