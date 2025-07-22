@@ -12,8 +12,8 @@ function Card({blog})
         <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2">{blog.title}</div>
             <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et
-                perferendis eaque, exercitationem praesentium nihil.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores
+                perferendis eaque, exercitationem praesentium.
             </p>
         </div>
         <div className="px-6 py-4">
